@@ -1,2 +1,1 @@
-# MyPortfolio
-A website containing my CV and projects.
+This repository contains the code for my website which is being hosted via github pages. 
